@@ -8,3 +8,5 @@ SmartInvest:
 
 PercentIncrease:
 - Provides the increase from one date until a specified date
+
+Disclaimer: This is not investment advice or financial advice
